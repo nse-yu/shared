@@ -10,7 +10,7 @@ public class Main {
         System.out.println(19);
         System.out.println("free space you edit");
         List<String> li = new ArrayList<>();
-        li.add("hoge");
+        li.add("piyo");
 
         System.out.println(li.get(0));
     }
